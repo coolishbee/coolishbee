@@ -1,5 +1,11 @@
 <!--- ![profile count](https://komarev.com/ghpvc/?username=jameschun7) --->
 
+## 👋 Hi, I’m @jameschun7
+
+Stay hungry Stay foolish!
+
+## 💻  Programming Languages
+
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -9,12 +15,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Objc](https://img.shields.io/badge/objc-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
 
+## 📫 How to reach me
 
-- 👋 Hi, I’m @jameschun7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jameschun7&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/jameschun7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameschun7&layout=compact&theme=dark" />
+</a>
 
 <!---
 jameschun7/jameschun7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
