@@ -1,6 +1,6 @@
-<!--- ![profile count](https://komarev.com/ghpvc/?username=jameschun7) --->
+<!--- ![profile count](https://komarev.com/ghpvc/?username=coolishbee) --->
 
-## 👋 Hi, I’m @jameschun7
+## 👋 Hi, I’m @coolishbee
 
 Stay hungry Stay foolish!
 
@@ -18,10 +18,10 @@ Stay hungry Stay foolish!
 ## 📫 How to reach me
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jameschun7&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coolishbee&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/jameschun7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameschun7&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolishbee&layout=compact&theme=dark" />
 </a>
 
 <!---
