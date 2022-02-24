@@ -2,7 +2,14 @@
 
 ## 👋 Hi, I’m @coolishbee
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=coolishbee&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
 Stay hungry Stay foolish!
+
+- :orange_book: Focusing on Go, Swift, Kotlin
+- :hammer: Creator of applications and frameworks
+- :hammer: Developer of unity game and sdk
+- :soccer: :swimming_man: :climbing_man: Sports lover
 
 ## 💻  Programming Languages
 
@@ -17,9 +24,11 @@ Stay hungry Stay foolish!
 
 ## 📫 How to reach me
 
+<!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=coolishbee&show_icons=true&theme=synthwave" />
 </a>
+--->
 <a href="https://github.com/jameschun7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolishbee&layout=compact&theme=dark" />
 </a>
