@@ -29,7 +29,7 @@ Stay hungry Stay foolish!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=coolishbee&show_icons=true&theme=synthwave" />
 </a>
 --->
-<a href="https://github.com/jameschun7">
+<a href="https://github.com/coolishbee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolishbee&layout=compact&theme=dark" />
 </a>
 
