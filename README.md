@@ -1,16 +1,5 @@
 <!--- ![profile count](https://komarev.com/ghpvc/?username=coolishbee) --->
 
-## 👋 Hi, I’m @coolishbee
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=coolishbee&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-
-Stay hungry Stay foolish!
-
-- :orange_book: Focusing on Go, Swift, Kotlin
-- :hammer: Creator of applications and frameworks
-- :hammer: Developer of unity game and sdk
-- :soccer: :swimming_man: :climbing_man: Sports lover
-
 ## 💻  Programming Languages
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
@@ -22,16 +11,17 @@ Stay hungry Stay foolish!
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Objc](https://img.shields.io/badge/objc-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
 
-## 📫 How to reach me
+## 👋 Hi, I’m @coolishbee
 
-<!---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coolishbee&show_icons=true&theme=synthwave" />
-</a>
---->
-<a href="https://github.com/coolishbee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolishbee&layout=compact&theme=dark" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=coolishbee&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
+Stay hungry Stay foolish!
+
+- :orange_book: Focusing on Go, Swift, Kotlin
+- :hammer: Creator of applications and frameworks
+- :hammer: Developer of unity game and sdk
+- :soccer: :swimming_man: :climbing_man: Sports lover
+
 
 <!---
 jameschun7/jameschun7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
