@@ -17,7 +17,7 @@
 
 Stay hungry Stay foolish!
 
-- :orange_book: Focusing on Go, Swift, Kotlin
+- :orange_book: Focusing on Go, Swift
 - :hammer: Creator of applications and frameworks
 - :hammer: Developer of unity game and sdk
 - :soccer: :swimming_man: :climbing_man: Sports lover
