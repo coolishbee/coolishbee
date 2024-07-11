@@ -19,7 +19,7 @@
 Stay hungry Stay foolish!<br/>
 Don't be evil
 
-- :orange_book: Focusing on Go, Swift
+- :orange_book: Focusing on Go, Flutter
 - :hammer: Creator of applications and frameworks
 - :hammer: Developer of unity game and sdk
 - :soccer: :swimming_man: :climbing_man: Sports lover
